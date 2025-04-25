@@ -1,4 +1,4 @@
-* This is the code for the face mask detection *
+# This is the code for the face mask detection 
 
 This is used in the food delivery robot, and is used for human robot interaction.
 
